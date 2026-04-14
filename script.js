@@ -92,9 +92,10 @@ setInterval(createPhoto, 2000);
 
 const paragraphs = [
     "✨ <strong>¡Hola mi amor!</strong> ✨",
-    "Hoy es un día muy especial... no cualquier día, porque estamos cumpliendo <span class='highlight'>1 año y 11 meses juntos</span>. 💖",
+    "Mañana es un día muy especial... no cualquier día, porque estamos cumpliendo <span class='highlight'>1 año y 11 meses juntos</span>. 💖",
     "En mayo llegaremos a los 2 años, y estoy muy alegría. Cada día a tu lado es un regalo.",
     "Sabes que te amo con cada fibra de mi ser, y por eso he estado preparando algo con mucho cariño... ",
+    "Bueno en si es mañana pero hagamos q es hoy.",
     "<span class='heart-emoji'>❤️</span> He estado trabajando en un <strong>dibujo especial para ti</strong>. No es del todo perfecto, pero espero te guste. ❤️"
 ];
 
